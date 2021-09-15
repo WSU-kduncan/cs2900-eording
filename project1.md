@@ -33,3 +33,12 @@ in your VM and then selecting shared folders and picking the folders
 
 which you wish to share. 
 
+2. When creating a snapshot, it stored wherever I was when I shut my machine down. 
+
+I was on the login screen when I created the snapshot and when I turned the 
+
+machine back on, it brough me back to the lock screen I left it at. 
+
+When creating a snapshot, it does not take up usually anymore than
+
+100MB, but the more information you are saving, the more Ram it will take. 
