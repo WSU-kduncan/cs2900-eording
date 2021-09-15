@@ -4,4 +4,10 @@ Disk Space Reservered: 2G. I am not allowing to expand because I do not want it 
 
 I am going to be creating a virtual disk so I have a hard copy of it in my files
 
+Not allowing 3D alleration 
+
+Guest Additions should be included! It makes it easier! 
+
+I went and downloaded the VirtualBox Guest Additions ISO, went to my storage of my VM and added the ISO underneath controller IDE. From there, I went on my acutla VM and went to the file location of that ISO and clicked "Run Software." The ISO package was then installed. Then, I went to my machines settings and on the first tab, I clicked advance and then changed Clipboard and Drag n' Drop to bidirectional. 
+
 
