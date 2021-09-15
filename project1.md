@@ -14,7 +14,7 @@
 
 I went and downloaded the VirtualBox Guest Additions ISO, went to my storage
 
- of my whole machine and added it as a dik. 
+ of my whole machine and added it as a disk.
 
  From there, I went on my actual VM and under devices, I selected "insert cd/disk". It then prompted me to run and install Guest Additions. 
 
