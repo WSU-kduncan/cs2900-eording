@@ -23,5 +23,13 @@ I went and downloaded the VirtualBox Guest Additions ISO, went to my storage
  Then, I went to my VM's view settings and enabled full screen mode. 
 
  
+## Part 2
 
+Yes, with the guest additions installed, it is possible to see folders
+
+from guest to host and vice versa. This is achieved by going to devices
+
+in your VM and then selecting shared folders and picking the folders
+
+which you wish to share. 
 
