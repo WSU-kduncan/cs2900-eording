@@ -2,15 +2,15 @@
 
 
 
-Host OS I chose: Linux - Ubuntu 64bit 
+1. Host OS I chose: Linux - Ubuntu 64bit 
 
-Disk Space Reservered: 2G. I am not allowing to expand because I do not want it to take over my actual OS and slow down my system. 
+2. Disk Space Reservered: 2G. I am not allowing to expand because I do not want it to take over my actual OS and slow down my system. 
 
-I am going to be creating a virtual disk so I have a hard copy of it in my files
+3. I am going to be creating a virtual disk so I have a hard copy of it in my files
 
-Not allowing 3D alleration 
+4. Not allowing 3D alleration 
 
-Guest Additions should be included! It makes it easier! 
+5. Guest Additions should be included! It makes it easier! 
 
 I went and downloaded the VirtualBox Guest Additions ISO, went to my storage
 
@@ -25,7 +25,7 @@ I went and downloaded the VirtualBox Guest Additions ISO, went to my storage
  
 ## Part 2
 
-Yes, with the guest additions installed, it is possible to see folders
+1. Yes, with the guest additions installed, it is possible to see folders
 
 from guest to host and vice versa. This is achieved by going to devices
 
