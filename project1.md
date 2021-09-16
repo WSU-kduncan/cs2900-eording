@@ -41,4 +41,10 @@ machine back on, it brough me back to the lock screen I left it at.
 
 When creating a snapshot, it does not take up usually anymore than
 
-100MB, but the more information you are saving, the more Ram it will take. 
+100MB, but the more information you are saving, the more Ram it will take.
+
+3. With a template, it is more a copy image of the VM that includes the disks,
+
+virtual devices, and settings. It takes up about 10 GB depending on how big
+
+the VM is and what is all stored.  
