@@ -47,4 +47,13 @@ When creating a snapshot, it does not take up usually anymore than
 
 virtual devices, and settings. It takes up about 10 GB depending on how big
 
-the VM is and what is all stored.  
+the VM is and what is all stored.
+
+
+## Part 3 
+
+1. I am going to pick on bridged networking. I configured this by going
+
+to my VM's network settings and going to adapter 2 and enabling bridged 
+
+networking.   
