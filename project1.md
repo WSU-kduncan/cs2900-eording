@@ -56,4 +56,6 @@ the VM is and what is all stored.
 
 to my VM's network settings and going to adapter 2 and enabling bridged 
 
-networking.   
+networking. Because my networks are bridged, I am able to get to the apache
+
+site from my main OS.    
