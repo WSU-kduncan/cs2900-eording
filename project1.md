@@ -49,6 +49,12 @@ virtual devices, and settings. It takes up about 10 GB depending on how big
 
 the VM is and what is all stored.
 
+4. It is possible to share the guest to the outside world through a bridged network. 
+
+That allows the IP address open to anyone, meaning they can access whatever they
+
+want. 
+
 
 ## Part 3 
 
