@@ -20,7 +20,13 @@ I went and downloaded the VirtualBox Guest Additions ISO, went to my storage
 
  The ISO package was then installed
 
- Then, I went to my VM's view settings and enabled full screen mode. 
+ Then, I went to my VM's view settings and enabled full screen mode.
+
+I installed Ubuntu on my VM. I went and downloaded the ISO for it and then once
+
+I open my VM for the first time, it was ready to be installed. If I want it detached
+
+I simply just remove it from my disk in the VM settings.  
 
  
 ## Part 2
