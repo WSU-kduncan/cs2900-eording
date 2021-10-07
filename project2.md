@@ -83,4 +83,28 @@ and what commands are being run.
 
 5. The main difference is initializing the container is running it in more of
 
-a dormat mode than actually running the container.  
+a dormat mode than actually running the container.
+
+## Logs & Status 
+
+1. Finding out the status of the container: 
+
+In docker: sudo docker ps = lists the containers running 
+
+Then finding the logs in docker is sudo docker ps -a. 
+
+Some things that came out of running that were: 
+
+hello-world, 36 minutes ago, 6 days ago. 
+
+This is indicating the things that were taking place on this container. 
+
+2. Finding out the status of the container for podman
+
+sudo podman ps -a 
+
+This displays the current images running and also displays the logs to this 
+
+container. 
+
+Such as: /hello and 11 minutes ago. It also says "Status" in the display.   
