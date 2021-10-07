@@ -107,4 +107,24 @@ This displays the current images running and also displays the logs to this
 
 container. 
 
-Such as: /hello and 11 minutes ago. It also says "Status" in the display.   
+Such as: /hello and 11 minutes ago. It also says "Status" in the display.
+
+## Stopping a Container 
+
+1. Pausing: 
+
+In docker: sudo docker pause [container name] 
+
+In podman: sudo podman pause [container name]
+
+2. Restart/Resumed
+
+In docker: sudo docker start [container name]
+
+In podman: sudo podman restart [container name]
+
+3. Stop/Kill 
+
+In docker: sudo docker kill [container name]
+
+In podman: sudo podman kill [container name]
