@@ -60,7 +60,7 @@ This then gave me another message from docker
 
 1. Definition of running in detached mode: -d = the container will start and run
 
-without the users interaction with the container or image. This is helper to 
+without the users interaction with the container or image. This is helpful to 
 
 users because there is no interaction needed between them and the container. 
 
