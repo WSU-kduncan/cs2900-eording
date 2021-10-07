@@ -36,3 +36,6 @@ sh -c "echo 'deb http://download.opensuse.org/repositories/devel:/kubic:/libcont
 6. sudo apt-get -qq -yes install podman 
 
 7. to verify podman was actually installed, I ran podman --version
+
+## Pulling a Container Image
+
