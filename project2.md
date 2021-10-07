@@ -39,6 +39,43 @@ sh -c "echo 'deb http://download.opensuse.org/repositories/devel:/kubic:/libcont
 
 ## Pulling a Container Image
 
-1. For docker, I did the following command: 
+1. For docker, I did the following command to pull the image 
 
 sudo docker pull hello-world
+
+2. To view the images I have I did the following command: 
+
+sudo docker images 
+
+There I saw my hello-world image and information such as when it was last updated, the size of it etc. 
+
+
+
+## Running a container 
+
+1. Definition of running in detached mode: -d = the container will start and run
+
+without the users interaction with the container or image. This is helper to 
+
+users because there is no interaction needed between them and the container. 
+
+They ultimately run on defaults within the container. 
+
+2. Definition of running and entering shell: keeping the STDIN open and allocating sudo 
+
+Running in shell allows commands to be executed in one location and in one script. 
+
+
+3.Initalizing the container means the minimum processes are being placed on 
+
+the container. Essentially, it is running in "zombie" mode. This ensures
+
+the usual responsibilites are being ran. 
+
+4. Running a container allows the user to control what the container is doing 
+
+and what commands are being run. 
+
+5. The main difference is initializing the container is running it in more of
+
+a dormat mode than actually running the container.  
