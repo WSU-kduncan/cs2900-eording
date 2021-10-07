@@ -39,3 +39,6 @@ sh -c "echo 'deb http://download.opensuse.org/repositories/devel:/kubic:/libcont
 
 ## Pulling a Container Image
 
+1. For docker, I did the following command: 
+
+docker pull hello-world
