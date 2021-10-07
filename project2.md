@@ -1,5 +1,5 @@
 ## Container Technologies 
 
-Container Platform 1: 
+Container Platform 1: Docker
 
-Container Platform 2: 
+Container Platform 2: Podman 
