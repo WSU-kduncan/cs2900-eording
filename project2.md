@@ -49,6 +49,11 @@ sudo docker images
 
 There I saw my hello-world image and information such as when it was last updated, the size of it etc. 
 
+3. To pull an image in podman I did the following command: 
+
+sudo podman run hello-world 
+
+This then gave me another message from docker 
 
 
 ## Running a container 
