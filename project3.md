@@ -2,7 +2,7 @@
 
 1. Docker - volume and bind mounts
 
-2. Podman - bind, volume, image, tmpfs, and devpts 
+2. Podman - bind, volume, image, tmpfs, and devpts   
 
 Docker bind: Allows a file or folder to run in a running container to see and
 
@@ -16,4 +16,6 @@ Creating Bind: Create a folder and then run the docker program but add -d\.
 
 The preferred method for docker is volume.
 
-Podman bind:   
+Podman bind: podman run -d 
+
+Podman volume: 
