@@ -14,4 +14,6 @@ Creating Volume: docker volume create (volume_name). This is to persist data.
 
 Creating Bind: Create a folder and then run the docker program but add -d\.
 
-The preferred method for docker is volume.  
+The preferred method for docker is volume.
+
+Podman bind:   
