@@ -18,4 +18,6 @@ The preferred method for docker is volume.
 
 Podman bind: podman run -d 
 
-Podman volume: 
+Podman mounts: podman mount [container] 
+
+All mounts have equal importance in podman  
