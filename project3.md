@@ -42,4 +42,18 @@ How to write this:
 
 Sometimes, running updates is necessary as well for everything to be
 
-build correctly.   
+build correctly.
+
+2. For podman - must install buildah for images to be created 
+
+To install buildah: sudo apt get install buildah
+
+Using buildah simply replaces docker build commands with buildah bud -t [image name]
+
+3. Again running is the same as docker 
+
+From - whatever application is being used or the original path 
+
+May choose to copy from another file or directory
+
+Run using podman run buildah version  
