@@ -20,4 +20,6 @@ Podman bind: podman run -d
 
 Podman mounts: podman mount [container] 
 
-All mounts have equal importance in podman  
+All mounts have equal importance in podman
+
+## Investigate building images for the container engine  
