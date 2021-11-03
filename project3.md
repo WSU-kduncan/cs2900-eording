@@ -22,4 +22,24 @@ Podman mounts: podman mount [container]
 
 All mounts have equal importance in podman
 
-## Investigate building images for the container engine  
+## Investigate building images for the container engine
+
+1. For docker - dockerfiles are used to build images 
+
+The command: docker build PATH URL
+
+The path is where the container lives or the URL is another thing to insert
+
+if this is coming from somewhere specific. 
+
+How to write this: 
+
+1. From whatever registery you are using
+
+2. Copy from the build directory you are working in (some kind of .txt, .md file)
+
+3. Run the new image that was built from the dockerfile 
+
+Sometimes, running updates is necessary as well for everything to be
+
+build correctly.   
