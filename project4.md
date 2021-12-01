@@ -29,4 +29,4 @@ bridge: a link layer and can forward traffic between networks.
 
 firewall: allows podman to open multiple needed ports automatically  
 
-
+By default: BRIDGE is used for podman 
