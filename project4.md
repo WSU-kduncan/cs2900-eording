@@ -61,4 +61,16 @@ Hadolint: includes checking and debugging shellcheck - lints any bash
 
 or sh code used in any docker conainers with run instructions. It can 
 
-be used with plugins or in IDE, making it acsessible to all platforms.    
+be used with plugins or in IDE, making it acsessible to all platforms.
+
+### Find scanner that can scan images
+
+Aqua Trivy
+
+Limits on what can be scanned? 
+
+Trivy cannot scan distroless docker images - it fails with unexpected error
+
+The types of vulnerabilites that are scanned: software vulnerabilities 
+
+OS packages/language specific packages     
