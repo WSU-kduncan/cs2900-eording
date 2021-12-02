@@ -55,4 +55,10 @@ Here, you can make a new network then and run it to BRIDGE, by default.
 
 ## Investigate Vulnerability Scanners
 
-### dockerfile linter:   
+### dockerfile linter: 
+
+Hadolint: includes checking and debugging shellcheck - lints any bash 
+
+or sh code used in any docker conainers with run instructions. It can 
+
+be used with plugins or in IDE, making it acsessible to all platforms.    
