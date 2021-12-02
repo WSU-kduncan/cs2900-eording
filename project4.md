@@ -50,4 +50,9 @@ Then, inspect the network
 
 sudo podman network inspect test-network 
 
-Here, you can make a new network then and run it to BRIDGE, by default.  
+Here, you can make a new network then and run it to BRIDGE, by default.
+
+
+## Investigate Vulnerability Scanners
+
+### dockerfile linter:   
